@@ -7,11 +7,14 @@ animations have been used in this website. You can check the visual appearance o
 <a href="https://shamilx.github.io/designers-website">Go to Website </a>
 
 
-I have learned in this example : 
+Skills that I have learned in this example so far : 
 <ul>
   <li><a href="https://web.dev/learn/css/flexbox/">CSS Flexbox</a>
   <li><a href="https://web.dev/learn/css/grid/">CSS Grid</a>
+  <li><a href="https://getbootstrap.com/docs/4.0/layout/grid/">CSS Keyframes</a>
   <li><a href="https://developers.google.com/fonts/docs/material_icons">Implementing Google Icons</a>
-  <li><a href="https://getbootstrap.com/docs/4.0/components/navbar/">Creating Responsive Navigation Menu with Bootstrap</a>
+  <li><a href="https://getbootstrap.com/docs/4.0/components/navbar/">Creating Responsive Navigation Menu with Bootstrap5</a>
   <li><a href="https://www.30secondsofcode.org/css/s/hover-underline-animation">Applying Underline Hover animation for Links</a>
+  <li><a href="https://getbootstrap.com/docs/4.0/layout/grid/">Using Bootstrap5 Grid System</a>
+
 </ul>
