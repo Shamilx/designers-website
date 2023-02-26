@@ -1,5 +1,5 @@
 # Designers Website Example
-Responsive Web Design (Not Fully Made)
+Responsive Web Design (Not Fully Made Yet)
 
 This website is first example(I think) of my professional front-end development learning progress. Bootstrap 5, Google Icons, Font-awsome icons, different
 animations have been used in this website. You can check the visual appearance of website from below : 
