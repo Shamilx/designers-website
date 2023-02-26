@@ -1,4 +1,4 @@
-# designers-website
+# Designers Website Example
 Responsive Web Design
 
 This website is first example(I think) of my professional front-end development learning progress. Bootstrap 5, Google Icons, Font-awsome icons, different
