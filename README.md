@@ -12,6 +12,8 @@ Skills that I have learned in this example so far :
   <li><a href="https://web.dev/learn/css/flexbox/">CSS Flexbox</a>
   <li><a href="https://web.dev/learn/css/grid/">CSS Grid</a>
   <li><a href="https://getbootstrap.com/docs/4.0/layout/grid/">CSS Keyframes</a>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries">CSS MediaQueries</a>
+  <li><a href="https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/">CSS Lobotomized Owl Operator</a>
   <li><a href="https://developers.google.com/fonts/docs/material_icons">Implementing Google Icons</a>
   <li><a href="https://getbootstrap.com/docs/4.0/components/navbar/">Creating Responsive Navigation Menu with Bootstrap5</a>
   <li><a href="https://www.30secondsofcode.org/css/s/hover-underline-animation">Applying Underline Hover animation for Links</a>
