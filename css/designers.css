@@ -1,0 +1,32 @@
+.designers {
+    padding: 10rem 0;
+}
+
+.designers h1 {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: calc(3rem + 2vw);
+    font-weight: 200;
+}
+
+.designers h1 span {
+    font-weight: 800;
+}
+
+.designers-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.designers *+* {
+    margin-top: 7rem;
+}
+
+.designers-list {
+    color: white;
+    text-align: center;
+    font-size: calc(1rem + 0.9vw);
+    width: 80%;
+}

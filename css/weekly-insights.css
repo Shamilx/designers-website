@@ -1,0 +1,65 @@
+.weekly-insights {
+    margin-top: calc(1rem + 10vh);
+}
+
+.weekly-header {
+    font-weight: 200;
+    text-transform: uppercase;
+    color: white;
+    font-size: calc(2em + 0.9vw);
+    text-align: center;
+}
+
+.weekly-header span {
+    font-weight: 800;
+}
+
+.weekly-insights-content {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.weekly-content-text {
+    color: white;
+    font-weight: 400;
+    max-width: 20rem;
+}
+
+.weekly-girl {
+    background-color: #fff;
+    height: 450px;
+    border-radius: 30px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    overflow: hidden;
+}
+
+.weekly-girl img {
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+.weekly-girl p {
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    font-weight: 800;
+    align-self: end;
+    margin-right: 12px;
+}
+
+@media only screen and (max-width: 768px) {
+    .weekly-insights-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .weekly-girl {
+        order: -1;
+    }
+}

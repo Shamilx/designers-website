@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;800&display=swap');
+
+.header-main {
+    margin-top: 8rem;
+    width: 90%;
+}
+
+.main-title {
+    font-family: 'Manrope', cursive;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: 200;
+    margin: 0;
+    line-height: 1.2em;
+    width: min-content;
+}
+
+.header-columns p span {
+    font-weight: 800;
+}
+
+.title-circles {
+    margin: 1rem 0;
+}
+
+.title-text {
+    font-size: calc(0.7rem + 0.2vw);
+    margin: 0.3rem 0;
+}
+
+.main-image-wrapper {
+    position: relative;
+}
+
+.image-toptext {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border: 6px solid gray;
+    background-color: white;
+    padding: 0.4rem;
+    border-top-left-radius: 20px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .header-main {
+        margin-top: 4rem;
+        padding-bottom: 10px
+    }
+
+    .main-image {
+        margin: 1rem 0;
+    }
+}
