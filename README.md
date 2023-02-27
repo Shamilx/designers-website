@@ -1,8 +1,8 @@
 # Designers Website Example
-Responsive Web Design (Not Fully Made Yet)
+Responsive Web Design (DEMO)
 
-This website is first example(I think) of my professional front-end development learning progress. Bootstrap 5, Google Icons, Font-awsome icons, different
-animations(not yet in first update) have been used in this website. You can check the visual appearance of website from below : 
+This website is first example of my professional front-end development learning progress. Bootstrap 5, Google Icons, Font-awsome icons, different
+scroll animations(not yet in demo version) have been used in this website. You can check the visual appearance of website from below : 
 
 <a href="https://shamilx.github.io/designers-website">Go to Website </a>
 
