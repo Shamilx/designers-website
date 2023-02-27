@@ -4,7 +4,7 @@ Responsive Web Design (Not Fully Made Yet)
 This website is first example(I think) of my professional front-end development learning progress. Bootstrap 5, Google Icons, Font-awsome icons, different
 animations(not yet in first update) have been used in this website. You can check the visual appearance of website from below : 
 
-<a href="https://shamilx.github.io/designers-website" target="_blank">Go to Website </a>
+<a href="https://shamilx.github.io/designers-website">Go to Website </a>
 
 
 Skills that I have learned in this example so far : 
