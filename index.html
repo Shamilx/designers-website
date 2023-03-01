@@ -12,10 +12,6 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 
-    <!-- Fontawsome Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
-        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <!--Google Icons-->
     <link rel="stylesheet"
@@ -35,7 +31,7 @@
     <link rel="stylesheet" href="css/weekly-insights.css" />
     <link rel="stylesheet" href="css/collabrations.css" />
     <link rel="stylesheet" href="css/designers.css" />
-
+    <link rel="stylesheet" href="css/quote.css" />
 </head>
 
 <body>
@@ -126,13 +122,15 @@
                         consectetur corrupti laudantium quasi sapiente mollitia omnis vel iusto pariatur ducimus impedit
                         exercitationem maxime culpa assumenda quisquam corporis?</p>
                 </div>
+                
                 <div class="weekly-girl">
-                    <p>The Mad Hatter*</p>
-                    <img src="img/weekly-girl.png" />
+                    <img src="img/quote.png" class="weekly-girl-quote"/>
+                    <img src="img/weekly-girl.png" class="weekly-girl-img" />
                 </div>
             </div>
         </div>
 
+        
         <div class="collabrations-wrapper">
             <div class="container collabrations d-flex flex-column align-items-center">
                 <h1>COLLABRATIONS</h1>
@@ -208,12 +206,16 @@
                 </div>
 
                 <div class="designers-more-about">
-                        <span class="material-symbols-outlined" id="designers-more-abt-icon">
+                        <span class="material-symbols-outlined" id="designers-more-abt-icon" >
                             expand_more
                         </span>
                     <p id="designers-more-abt-txt">More about the team</p>
-                </div>   
+                </div>
             </div>
+        </div>
+
+        <div class="container-fluid quote" id="quoteParent">
+            <p id="quoteChild">2022</p>
         </div>
     </main>
 
@@ -231,8 +233,7 @@
         </script>
 
     <script src="js/searcbox.js"></script>
-
-
+    <script src="js/scrollAnimation.js"></script>
 </body>
 
 </html>

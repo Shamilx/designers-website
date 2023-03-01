@@ -1,0 +1,17 @@
+.quote {
+    background-color: #fff;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.quote p {
+    position: fixed;
+    font-size: calc(15rem + 4vw);
+    display: inline-block;
+    color: gray;
+    transform: rotate(-90deg) translateY(-60%);
+    margin: 0;
+    opacity: 0.2;
+    font-weight: 800;
+}
+
