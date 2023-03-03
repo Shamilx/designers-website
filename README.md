@@ -1,5 +1,5 @@
-# Designers Website Example
-Responsive Web Design (DEMO)
+# Designers Website Project
+Responsive Web Design
 
 This website is first professional project of my front-end development learning progress. Bootstrap 5, Google Icons, Font-awsome icons, different
 scroll animations have been used in this website. You can check the visual appearance of website from below : 
