@@ -20,5 +20,6 @@ Skills that I have learned in this example so far :
   <li><a href="https://getbootstrap.com/docs/4.0/components/navbar/">Creating Responsive Navigation Menu with Bootstrap5</a>
   <li><a href="https://www.30secondsofcode.org/css/s/hover-underline-animation">Applying Underline Hover animation for Links</a>
   <li><a href="https://getbootstrap.com/docs/4.0/layout/grid/">Using Bootstrap5 Grid System</a>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/position">Using Position Sticky</a>
 
 </ul>

@@ -33,7 +33,7 @@
         "none  text";
 }
 
-.quote-text:nth-child(1) {
+.quote-text-first {
     grid-area: text1;
 }
 
