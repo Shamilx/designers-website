@@ -1,17 +1,88 @@
 .quote {
-    background-color: #fff;
-    height: 100vh;
-    overflow: hidden;
+    background-color: ghostwhite;
+    height: 1000px;
+    display: flex;
+    align-items: start;
+    column-gap: calc(2rem + 5vw);
 }
 
-.quote p {
-    position: fixed;
-    font-size: calc(15rem + 4vw);
-    display: inline-block;
-    color: gray;
-    transform: rotate(-90deg) translateY(-60%);
-    margin: 0;
-    opacity: 0.2;
+.quote-heading {
+    position: sticky;
+    top: 2rem;
+    margin-top: 2rem;
+}
+
+.quote-text {
     font-weight: 800;
+    color: black;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: calc(2rem + 3.5vw);
 }
 
+.quote-wrapper {
+    align-self: center;
+
+    display: grid;
+    grid-template-rows: repeat(3, max-content) min-content;
+    grid-template-columns: max-content minmax(11rem, 20rem);
+    grid-template-areas:
+        "text1 text1"
+        "text2 text2"
+        "text3 circles"
+        "none  text";
+}
+
+.quote-text:nth-child(1) {
+    grid-area: text1;
+}
+
+.quote-text:nth-child(2) {
+    grid-area: text2;
+}
+
+.quote-text:nth-child(3) {
+    grid-area: text3;
+}
+
+.quote-circles {
+    grid-area: circles;
+    align-self: flex-end;
+    justify-self: flex-end;
+    margin-bottom: 2rem;
+}
+
+.quote-inside-text {
+    grid-area: text;
+    text-align: right;
+    margin: 0;
+}
+
+@media only screen and (max-width: 768px) {
+    .quote {
+        height: max-content;
+        padding: 3rem 0;
+    }
+
+    .quote-wrapper {
+        grid-template-columns: max-content 1fr;
+    }
+
+    .quote-heading {
+        display: none;
+    }
+
+    .quote-wrapper {
+        margin-left: 1rem;
+    }
+
+    .quote-inside-text {
+        display: none;
+    }
+
+    .quote-circles {
+        justify-self: flex-start;
+        margin-left: 1rem;
+        margin-bottom: 1rem;
+    }
+}
