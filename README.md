@@ -1,7 +1,7 @@
 # Designers Website Project
 Responsive Web Design
 
-This website is first professional project of my front-end development learning progress. Bootstrap 5, Google Icons, Font-awsome icons, different
+This website is first professional project of my front-end development learning progress. Bootstrap 5, Google Icons, different
 scroll animations have been used in this website. You can check the visual appearance of website from below : 
 
 <a href="https://shamilx.github.io/designers-website">Designers</a>
