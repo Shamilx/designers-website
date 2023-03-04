@@ -58,6 +58,11 @@
     margin: 0;
 }
 
+.quote-logo {
+    grid-area: text1;
+    width: 120px;
+}
+
 @media only screen and (max-width: 768px) {
     .quote {
         height: max-content;
