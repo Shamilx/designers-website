@@ -50,6 +50,7 @@
     width: 50%;
     align-self: end;
     margin-right: 12px;
+    width: 120px;
 }
 
 @media only screen and (max-width: 768px) {
