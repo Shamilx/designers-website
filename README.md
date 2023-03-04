@@ -1,13 +1,13 @@
-# Designers Website Example
-Responsive Web Design (DEMO)
+# Designers Website Project
+Responsive Web Design
 
-This website is first example of my professional front-end development learning progress. Bootstrap 5, Google Icons, Font-awsome icons, different
-scroll animations(not yet in demo version) have been used in this website. You can check the visual appearance of website from below : 
+This website is first professional project of my front-end development learning progress. Bootstrap 5, Google Icons, Font-awsome icons, different
+scroll animations have been used in this website. You can check the visual appearance of website from below : 
 
-<a href="https://shamilx.github.io/designers-website">Go to Website </a>
+<a href="https://shamilx.github.io/designers-website">Designers</a>
 
 
-Skills that I have learned in this example so far : 
+Skills that I have learned in this project so far : 
 <ul>
   <li><a href="https://web.dev/learn/css/flexbox/">CSS Flexbox</a>
   <li><a href="https://web.dev/learn/css/grid/">CSS Grid</a>
